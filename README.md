@@ -10,12 +10,12 @@ params = {
 }
 ```
 
-# TODO
-* [ ] load 2017 data (hourly)
+# Roadmap
+* [x] load 2017 data (hourly)
 * [x] fetch last data from the web
 * [x] process increase percentages by hour
 * [x] process decrease percentages by hour
 * [x] process potential gain by strategy
+* [x] add columns : nbWins & nbLoses & ratio
+* [x] plot curve day by day
 * [ ] how to define next week hyperparameters ?
-* [ ] add columns : nbWins & nbLoses & ratio
-* [ ] plot curve day by day
