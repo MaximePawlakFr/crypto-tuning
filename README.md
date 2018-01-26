@@ -18,3 +18,4 @@ params = {
 * [x] process potential gain by strategy
 * [ ] how to define next week hyperparameters ?
 * [ ] add columns : nbWins & nbLoses & ratio
+* [ ] plot curve day by day
